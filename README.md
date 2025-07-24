@@ -1,4 +1,3 @@
-# Spam-Mail-Prediction-using-Machine-Learning
 # 📧 Spam Mail Prediction Using Machine Learning
 
 This project involves building a machine learning model to classify emails as **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) techniques and a Logistic Regression model.
